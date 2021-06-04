@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supernova", "Supernova.csproj", "{08DA6A1B-6221-41F6-9F0A-7D3A5886034A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Supernova Editor3", "..\Supernova Editor3\Supernova Editor3.vdproj", "{D8255726-4C9E-4557-8B67-B4B8E193E23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DA6A1B-6221-41F6-9F0A-7D3A5886034A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DA6A1B-6221-41F6-9F0A-7D3A5886034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DA6A1B-6221-41F6-9F0A-7D3A5886034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DA6A1B-6221-41F6-9F0A-7D3A5886034A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8255726-4C9E-4557-8B67-B4B8E193E23F}.Debug|Any CPU.ActiveCfg = Debug
+		{D8255726-4C9E-4557-8B67-B4B8E193E23F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB038014-E7DC-4974-A942-B3D69ED57EF2}
+	EndGlobalSection
+EndGlobal
